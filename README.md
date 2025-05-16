@@ -7,11 +7,11 @@ This project focuses on the end-to-end testing of the **FlightSure Travel Bookin
 ---
 
 ## 🌐 Project Overview
-- **Website Under Test:** [OrangeHRM Demo](https://blazedemo.com/index.php)
+- **Website Under Test:** [Flight booking  Demo](https://blazedemo.com/index.php)
 - **Team Members:**
-  - 👨‍💼 **M kusuma** (Team Lead)
+  - 👨‍💼 **Madavali  kusuma** (Team Lead)
   - 👨‍💼 **Prajyoti Ramchandra Suryawanshi** (Automation Testing Lead)
-  -  👨‍💼 **T Swathi** (Manual Testing Lead)
+  -  👨‍💼 **Thoorpati Swathi** (Manual Testing Lead)
     
 ---
 
@@ -46,6 +46,7 @@ Communication and coordination proof:
   -Scope and objectives 
    -Test strategies including manual,
    -Environment setup
+   - Delivarables
     -risk mitigation strategies.
     -Approvals 
 
@@ -113,7 +114,7 @@ Communication and coordination proof:
 
 
 
-### 👨‍💼 M kusuma
+### 👨‍💼 Madavali Kusuma
 - Led manual and automation testing efforts.
 - Authored:
 - Api tetsing
@@ -138,7 +139,6 @@ Communication and coordination proof:
   - Mind Map 📊.
   
 
----
 
 ## 🧪 Key Testing Areas
 1. **Functional Testing** ⚙️
