@@ -1,4 +1,4 @@
-# 🧑‍💻  flight + hotel booking platform Testing Projec
+# 🧑‍💻  flight + hotel booking platform Testing Project
 This project focuses on the end-to-end testing of the **FlightSure Travel Booking Platform using the BlazeDemo website** as the testing application. It includes both manual and automated testing to check all major features of the flight booking system. 🚀
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWEH7pfwaNzo0UDflyIxW-M02VaDZ9Na0Ow&s)
@@ -44,9 +44,10 @@ Communication and coordination proof:
 ### 1. 📝 Test Plan
 - Comprehensive documentation outlining:
   -Scope and objectives 
-   -Test strategies including manual, automation (UI + API), and performance testing approaches.
-   -Environment setup details, tools used (Selenium, Postman, JMeter), and risk mitigation strategies.
-    -Team structure, roles, timelines, and resources required to complete testing within 48 hours.
+   -Test strategies including manual,
+   -Environment setup
+    -risk mitigation strategies.
+    -Approvals 
 
 ### 2. ✅ Requirements Traceability Matrix (RTM)
 - Connects each feature (Search, Filter, Booking, etc.) to related test cases.
@@ -60,14 +61,14 @@ Communication and coordination proof:
   - Risk-based testing priorities.
 
 ### 4. 🔍 Test Scenario Report
-- High-level descriptions of functionalities to test.
-- Ensures complete coverage of:
--Core features like flight search, flight selection, and passenger booking.
+   - High-level descriptions of functionalities to test.
+   - Ensures complete coverage of:
+   -Core features like flight search, flight selection, and passenger booking.
 -Edge cases such as:
--Invalid departure/arrival cities
--Empty form submissions
--Special characters in input fields
--Booking with missing passenger details
+    -Invalid departure/arrival cities
+    -Empty form submissions
+    -Special characters in input fields
+    -Booking with missing passenger details
 
 ### 5. 📋 Test Case Report
 - Step-by-step test cases with:
@@ -78,13 +79,7 @@ Communication and coordination proof:
   - Employee data management.
   - Admin functionalities.
 
-### 6. 📊 Test Execution Report
-- Detailed results of executed test cases.
-- Includes:
-  - Screenshots.
-  - Logs of success and failures.
-
-### 7. 🐞 Bug Report
+### 6. 🐞 Bug Report
 - Detailed documentation of identified defects:
   - Steps to reproduce.
   - Severity, priority, and resolution status.
@@ -106,36 +101,42 @@ Communication and coordination proof:
 - **TestNG** for test management.
 - **Maven** for dependency management.
 - **Extent Reports** for detailed test reporting.
+- **TestNG**
+- **JMeter**
+- 
 
 ### Key Features Automated:
-- Functional testing:
-  - Employee login/logout.
-  - Leave application and approval.
-- Regression testing:
-  - Ensure old functionalities work after new updates.
-- Cross-browser compatibility testing.
+- Automate:
+    - Search Flights/Hotels
+    - Selection and checkout
+    - Validations for filters, prices, passenger input, etc.
 
----
 
-## 👥 Contributions
 
-### 👨‍💼 Atul Pal
+### 👨‍💼 M kusuma
 - Led manual and automation testing efforts.
 - Authored:
-  - Test Plan 📝.
-  - RTM ✅.
-  - Test Execution Reports 📊.
+- Api tetsing
+- Performance testing 
   - Management.
   - Automation.
 
-  ### 👨‍💼 Paraskumar Zumbarlal Sanghvi
+  ### 👨‍💼 Prajyoti Ramchandra Suryawanshi
+- Led automation testing efforts.
+- Authored:
+  - Automation -Selenium
+ 
+
+     ### 👨‍💼 Thhorpati Swathi
 - Led manual and automation testing efforts.
 - Authored:
+- - Test Plan 📝.
+  - RTM ✅.
   - Test Scenarious 📝.
   - Test Cases ✅.
   - Bug Reports 🐞 
   - Mind Map 📊.
-  - Automation.
+  
 
 ---
 
@@ -150,21 +151,25 @@ Communication and coordination proof:
 
 ## ✨ Conclusion
 
-This project demonstrates a robust and collaborative approach to testing the **OrangeHRM Demo Website**. By combining manual and automated testing, we ensure:
-- Higher quality of deliverables.
-- Enhanced user experience.
-- Increased reliability of the OrangeHRM system. ✅
+-This project demonstrates a robust and hands-on approach to testing the BlazeDemo Flight Booking Website. By combining manual, API, and performance testing, we ensure:
+    -Higher accuracy and quality in booking functionalities.
+    -Improved user interaction and flow across the platform.
+    -Increased reliability and responsiveness of the BlazeDemo system.
 
 
 ## 📧 Contact
 For questions or feedback, reach out at:</br>
-Email: atulpaldelhi@gmail.com </br>
-Linkedin: https://www.linkedin.com/in/atul-pal-451b13251/</br>
-GitHub: [Atul Pal](https://github.com/palatul16) </br>
+Email: kusumababu6379@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/madavali-kusuma-3496b4341/</br>
+GitHub: [Madavali Kusuma](https://github.com/kusuma6379) </br>
 
-Email: paras.kkwagh@gmail.com </br>
-Linkedin: https://www.linkedin.com/in/paras-sanghavi-b48a721b5/ </br>
-GitHub: [Paraskumar Zumbarlal Sanghvi](https://github.com/Parassanghavi1008) </br>
+Email: prajyotisuryawanshi639@gmail.com</br>
+Linkedin: https://www.linkedin.com/feed/ </br>
+GitHub: [Prajyoti Ramchandra Suryawanshi](https://github.com/PrajyotiSuryawanshi) </br>
+
+Email: swathithoorpati03@gmail.com</br>
+Linkedin:    ............................. </br>
+GitHub: [Thoorpati Swathi](..........................) </br>
 
 
 
