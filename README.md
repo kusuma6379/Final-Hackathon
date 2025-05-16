@@ -16,8 +16,9 @@ This project focuses on the end-to-end testing of the **FlightSure Travel Bookin
 ---
 
 ## 📑 Key Deliverables
+
 🧪 - Functional Testing
-       -Test documentation includes:
+       -Test documentation includes.
        -Test Cases.
        -Detailed Bug Report.
        
