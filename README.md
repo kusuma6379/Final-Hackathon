@@ -1,7 +1,14 @@
-# 🧑‍💻  flight + hotel booking platform Testing Project
+# 👩🏻‍💻  flight + hotel booking platform Testing Project
+# ***Team*** 
+![Screenshot 2025-05-16 082233](https://github.com/user-attachments/assets/90bfbb3e-d867-4bc5-89a1-ccab67367384)
+
+
+
 This project focuses on the end-to-end testing of the **FlightSure Travel Booking Platform using the BlazeDemo website** as the testing application. It includes both manual and automated testing to check all major features of the flight booking system. 🚀
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWEH7pfwaNzo0UDflyIxW-M02VaDZ9Na0Ow&s)
+
+
 
 
 ---
@@ -9,9 +16,9 @@ This project focuses on the end-to-end testing of the **FlightSure Travel Bookin
 ## 🌐 Project Overview
 - **Website Under Test:** [Flight booking  Demo](https://blazedemo.com/index.php)
 - **Team Members:**
-  - 👨‍💼 **Madavali  kusuma** (Team Lead)
-  - 👨‍💼 **Prajyoti Ramchandra Suryawanshi** (Automation Testing Lead)
-  -  👨‍💼 **Thoorpati Swathi** (Manual Testing Lead)
+  - 👩🏻‍💻 **Madavali  kusuma** (Team Lead)
+  - 👩🏻‍💻 **Prajyoti Ramchandra Suryawanshi** (Automation Testing Lead)
+  - 👩🏻‍💻 **Thoorpati Swathi** (Manual Testing Lead)
     
 ---
 
@@ -49,7 +56,7 @@ Communication and coordination proof:
    -Test strategies including manual,
    -Environment setup
    - Delivarables
-    -risk mitigation strategies.
+    -Risk mitigation strategies.
     -Approvals 
 
 ### 2. ✅ Requirements Traceability Matrix (RTM)
@@ -106,12 +113,11 @@ Communication and coordination proof:
 
 ### 🛠️ Tools & Technologies:
 - **Java** for scripting.
-- **TestNG** for test management.
+- **POM with TestNG** for test management.
 - **Maven** for dependency management.
 - **Extent Reports** for detailed test reporting.
-- **TestNG**
+- **Screenshots** for Failure
 - **JMeter**
-- 
 
 ### Key Features Automated:
 - Automate:
@@ -121,7 +127,7 @@ Communication and coordination proof:
 
 
 
-### 👨‍💼 Madavali Kusuma
+### 👩🏻‍💻 Madavali Kusuma
 - Led manual and automation testing efforts.
 - Authored:
 - Api tetsing
@@ -129,13 +135,13 @@ Communication and coordination proof:
   - Management.
   - Automation.
 
-  ### 👨‍💼 Prajyoti Ramchandra Suryawanshi
+  ### 👩🏻‍💻 Prajyoti Ramchandra Suryawanshi
 - Led automation testing efforts.
 - Authored:
   - Automation -Selenium with JAVA
  
 
-     ### 👨‍💼 Thhorpati Swathi
+     ### 👩🏻‍💻 Thhorpati Swathi
 - Led manual and automation testing efforts.
 - Authored:
 - - Test Plan 📝.
@@ -166,7 +172,7 @@ Communication and coordination proof:
     -Increased reliability and responsiveness of the BlazeDemo system.
 
 
-## 📧 Contact
+## 📞 Contact
 For questions or feedback, reach out at:</br>
 Email: kusumababu6379@gmail.com </br>
 Linkedin: https://www.linkedin.com/in/madavali-kusuma-3496b4341/</br>
