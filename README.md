@@ -6,19 +6,17 @@
 
 This project focuses on the end-to-end testing of the **FlightSure Travel Booking Platform using the BlazeDemo website** as the testing application. It includes both manual and automated testing to check all major features of the flight booking system. 🚀
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWEH7pfwaNzo0UDflyIxW-M02VaDZ9Na0Ow&s)
-
-
-
 
 ---
 
 ## 🌐 Project Overview
-- **Website Under Test:** [Flight booking  Demo](https://blazedemo.com/index.php)
-- **Team Members:**
-  - 👩🏻‍💻 **Madavali  kusuma** (Team Lead)
-  - 👩🏻‍💻 **Prajyoti Ramchandra Suryawanshi** (Automation Testing Lead)
-  - 👩🏻‍💻 **Thoorpati Swathi** (Manual Testing Lead)
+
+<img width="214" alt="image" src="https://github.com/user-attachments/assets/a93929d0-8ce3-4262-aade-94b5bdba1ef0" />
+
+- **Website Under Test : ** [Flight booking BlazdeDemo](https://blazedemo.com/index.php)
+  - 👩🏻‍💻 **Madavali  kusuma** `Team Lead`
+  - 👩🏻‍💻 **Prajyoti Ramchandra Suryawanshi**  `Automation Test Lead`
+  - 👩🏻‍💻 **Thoorpati Swathi** `Manual Test Lead`
     
 ---
 
