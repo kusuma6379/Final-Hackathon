@@ -166,12 +166,12 @@ Linkedin: https://www.linkedin.com/in/madavali-kusuma-3496b4341/</br>
 GitHub: [Madavali Kusuma](https://github.com/kusuma6379) </br>
 
 Email: prajyotisuryawanshi639@gmail.com</br>
-Linkedin: https://www.linkedin.com/feed/ </br>
+Linkedin: https://www.linkedin.com/in/prajyoti-suryawanshi-137756342 </br>
 GitHub: [Prajyoti Ramchandra Suryawanshi](https://github.com/PrajyotiSuryawanshi) </br>
 
 Email: swathithoorpati03@gmail.com</br>
-Linkedin:    ............................. </br>
-GitHub: [Thoorpati Swathi](..........................) </br>
+Linkedin:https://www.linkedin.com/in/thoorpati-swathi-41452525a/ </br>
+GitHub: [Thoorpati Swathi](https://github.com/swathi-T3) </br>
 
 
 
