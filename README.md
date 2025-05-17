@@ -1,4 +1,4 @@
-# 👩🏻‍💻  flight + hotel booking platform Testing Project
+# 👩🏻‍💻 Project Title : FlightSure - Breaking the Skies E2E Testing - Travel Booking Platform
 # ***Team Name*** 
 ![Screenshot 2025-05-16 082233](https://github.com/user-attachments/assets/90bfbb3e-d867-4bc5-89a1-ccab67367384)
 
