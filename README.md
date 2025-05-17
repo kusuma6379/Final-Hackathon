@@ -13,7 +13,7 @@ This project focuses on the end-to-end testing of the **FlightSure Travel Bookin
 
 <img width="214" alt="image" src="https://github.com/user-attachments/assets/a93929d0-8ce3-4262-aade-94b5bdba1ef0" />
 
-- **Website Under Test : ** [Flight booking BlazdeDemo](https://blazedemo.com/index.php)
+- **Website Under Test** : ***[Flight booking BlazdeDemo](https://blazedemo.com/index.php)***
   - 👩🏻‍💻 **Madavali  kusuma** `Team Lead`
   - 👩🏻‍💻 **Prajyoti Ramchandra Suryawanshi**  `Automation Test Lead`
   - 👩🏻‍💻 **Thoorpati Swathi** `Manual Test Lead`
