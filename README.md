@@ -54,8 +54,8 @@ Communication and coordination proof:
 
 ### 2. ✅ Requirements Traceability Matrix (RTM)
 - Connects each feature (Search, Filter, Booking, etc.) to related test cases.
--Ensures all important functions are tested.
--Confirms nothing is missed during testing.
+- Ensures all important functions are tested.
+- Confirms nothing is missed during testing.
 
 ### 3. 🧠 Mind Map
 - A professional visual representation of the testing process.
@@ -63,7 +63,7 @@ Communication and coordination proof:
   - Functional areas.
   - Risk-based testing priorities.
 
-### 4. 🔍 Test Scenario Report
+### 4. 🔍 Test Scenarios
    - High-level descriptions of functionalities to test.
    - Ensures complete coverage of:
    -Core features like flight search, flight selection, and passenger booking.
@@ -73,16 +73,21 @@ Communication and coordination proof:
     -Special characters in input fields
     -Booking with missing passenger details
 
-### 5. 📋 Test Case Report
+### 5. 📋 Test Cases
 - Step-by-step test cases with:
-  - Input data.
+  - Search, Filter - Flight Bookings.
   - Expected outcomes.
 - Covers positive, negative, and edge case scenarios for:
-  - User login/logout.
-  - Employee data management.
-  - Admin functionalities.
+  - UI, Functional Test cases.
+  - Choosing flights.
+  - Purchasing flight.
 
-### 6. 🐞 Bug Report
+### 6. Test Execution Report
+  - Passed Test Cases
+  - Failed Test Cases
+  - Total Number of Test cases
+
+### 7. 🐞 Bug Report
 - Detailed documentation of identified defects:
   - Steps to reproduce.
   - Severity, priority, and resolution status.
@@ -127,7 +132,7 @@ Communication and coordination proof:
   ### 👨‍💼 Prajyoti Ramchandra Suryawanshi
 - Led automation testing efforts.
 - Authored:
-  - Automation -Selenium
+  - Automation -Selenium with JAVA
  
 
      ### 👨‍💼 Thhorpati Swathi
@@ -137,7 +142,9 @@ Communication and coordination proof:
   - RTM ✅.
   - Test Scenarious 📝.
   - Test Cases ✅.
-  - Bug Reports 🐞 
+  - Test Execution Report
+  - Bug Reports 🐞
+  - Bug Summary Report
   - Mind Map 📊.
   
 
