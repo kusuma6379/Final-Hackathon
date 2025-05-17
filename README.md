@@ -36,7 +36,7 @@ This project focuses on the end-to-end testing of the **FlightSure Travel Bookin
 
 🚀 - Performance Testing
         -Load and stress testing artifacts using:
-         -JMeter or k6 scripts and reports.
+         -JMeter.
 
 Simulated user load scenarios and performance bottleneck analysis.
 
