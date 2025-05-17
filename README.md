@@ -1,5 +1,5 @@
 # 👩🏻‍💻  flight + hotel booking platform Testing Project
-# ***Team*** 
+# ***Team Name*** 
 ![Screenshot 2025-05-16 082233](https://github.com/user-attachments/assets/90bfbb3e-d867-4bc5-89a1-ccab67367384)
 
 
