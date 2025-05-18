@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [BlazeDemo Automation Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="baseUrl" value="https://blazedemo.com"/>
+  <test thread-count="2" parallel="methods" name="Smoke and Regression Test Run(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="StepDefinitions.stepdefinitions">
+        <methods>
+          <include name="testFlightBookingFlowWithValidations"/>
+          <include name="tearDown"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- StepDefinitions.stepdefinitions -->
+    </classes>
+  </test> <!-- Smoke and Regression Test Run(failed) -->
+</suite> <!-- Failed suite [BlazeDemo Automation Suite] -->

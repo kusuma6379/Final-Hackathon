@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="BlazeDemo Automation Suite" parallel="methods" thread-count="2">
+
+    
+   <parameter name="baseUrl" value="https://blazedemo.com"/>
+
+    <test name="Smoke and Regression Test Run">
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="regression"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="StepDefinitions.stepdefinitions"/>
+        </classes>
+    </test>
+
+</suite>
